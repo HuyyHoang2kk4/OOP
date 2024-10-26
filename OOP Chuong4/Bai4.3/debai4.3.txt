@@ -1,0 +1,3 @@
+Viết một chương trình bằng cách sử dụng các hàm của lớp M ath đé hiển thị
+bình phương cùa các số lớn nhất và nhò nhất cùa một tập các số được nhập
+vào bởi người sử dụng tại dòng lệnh

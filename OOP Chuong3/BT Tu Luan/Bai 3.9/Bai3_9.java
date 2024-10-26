@@ -1,3 +1,23 @@
+// Hãy xây dựng lớp SinhVien trong ngôn ngữ lập trình Java với các thuộc tính riêng (private) bao gồm:
+
+// Số báo danh
+// Họ và tên sinh viên
+// Địa chỉ
+// Môn học
+// Điểm thi học kỳ I và II
+// Yêu cầu:
+
+// a) Viết các phương thức truy cập (getter và setter) cho các thuộc tính của lớp SinhVien và viết phương thức tạo lập cho lớp này.
+
+// b) Viết chương trình chính để tạo ra danh sách sinh viên và hiển thị thực đơn với các lựa chọn sau:
+
+// Nhập vào thông tin về sinh viên.
+// Xem thông tin về sinh viên.
+// Tìm sinh viên theo điểm thi.
+// Kết thúc chương trình.
+// c) Viết các hàm thành phần của lớp để thực hiện các nhiệm vụ trên.
+
+
 public class Bai3_9 {
     private String sbd;
     private String hoTen;

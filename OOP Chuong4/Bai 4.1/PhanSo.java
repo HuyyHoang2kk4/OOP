@@ -1,3 +1,5 @@
+//Xây dựng lớp các phân số  với các phép toán +, *, / và nhập, hiển thị các phân số tối giản.
+
 import java.util.Scanner;
 
 public class PhanSo {

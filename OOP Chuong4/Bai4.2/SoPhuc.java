@@ -1,3 +1,6 @@
+
+//Xây dựng lớp các số phức C om plex (gồm phần thực và phần ảo) với các phép toán +, *, / và nhập, hiển thị các số phức.
+
 import java.util.Scanner;
 
 public class SoPhuc {
